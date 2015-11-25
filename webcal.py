@@ -22,6 +22,9 @@ class MainPage(webapp2.RequestHandler):
         if 'Emirates Stadium' in component['LOCATION']:
           filtered_cal.add_component(component)
 
+    self.response.content_type = 'text/calendar'
+    self.response.headers.add(
+        'Cache-Control', 'max-age=3600')
     self.response.out.write(filtered_cal.to_ical())
 
 
