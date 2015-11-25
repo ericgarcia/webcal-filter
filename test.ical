@@ -1,0 +1,701 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Arsenal.com//NONSGML Arsenal Product//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Arsenal FC
+X-WR-CALNAME;VALUE=TEXT:Arsenal
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150715T123000Z
+DTEND:20150715T141500Z
+UID:179337-fixture@arsenal.com
+SUMMARY:Singapore Select XI v Arsenal (A)
+LOCATION:Singapore National Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179337-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150718T123000Z
+DTEND:20150718T141500Z
+UID:179340-fixture@arsenal.com
+SUMMARY:Everton v Arsenal (A)
+LOCATION:Singapore National Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179340-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150725T152000Z
+DTEND:20150725T170500Z
+UID:179344-fixture@arsenal.com
+SUMMARY:Arsenal v Lyon (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179344-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150726T152000Z
+DTEND:20150726T170500Z
+UID:179345-fixture@arsenal.com
+SUMMARY:Arsenal v VfL Wolfsburg (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179345-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150802T140000Z
+DTEND:20150802T154500Z
+UID:179346-fixture@arsenal.com
+SUMMARY:Chelsea v Arsenal (A)
+LOCATION:Wembley Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179346-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150809T123000Z
+DTEND:20150809T141500Z
+UID:g803171-fixture@arsenal.com
+SUMMARY:Arsenal v West Ham United (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803171-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150816T123000Z
+DTEND:20150816T141500Z
+UID:g803172-fixture@arsenal.com
+SUMMARY:Crystal Palace v Arsenal (A)
+LOCATION:Selhurst Park
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803172-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150824T190000Z
+DTEND:20150824T204500Z
+UID:g803185-fixture@arsenal.com
+SUMMARY:Arsenal v Liverpool (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803185-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150829T114500Z
+DTEND:20150829T133000Z
+UID:g803192-fixture@arsenal.com
+SUMMARY:Newcastle United v Arsenal (A)
+LOCATION:St. James' Park
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803192-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150912T140000Z
+DTEND:20150912T154500Z
+UID:g803209-fixture@arsenal.com
+SUMMARY:Arsenal v Stoke City (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803209-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150916T184500Z
+DTEND:20150916T203000Z
+UID:g832644-fixture@arsenal.com
+SUMMARY:Dinamo Zagreb v Arsenal (A)
+LOCATION:Maksimir
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832644-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150919T114500Z
+DTEND:20150919T133000Z
+UID:g803212-fixture@arsenal.com
+SUMMARY:Chelsea v Arsenal (A)
+LOCATION:Stamford Bridge
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803212-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150923T184500Z
+DTEND:20150923T203000Z
+UID:g832459-fixture@arsenal.com
+SUMMARY:Tottenham Hotspur v Arsenal (A)
+LOCATION:White Hart Lane
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832459-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150926T140000Z
+DTEND:20150926T154500Z
+UID:g803222-fixture@arsenal.com
+SUMMARY:Leicester City v Arsenal (A)
+LOCATION:King Power Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803222-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20150929T184500Z
+DTEND:20150929T203000Z
+UID:g832645-fixture@arsenal.com
+SUMMARY:Arsenal v Olympiacos (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832645-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151004T150000Z
+DTEND:20151004T164500Z
+UID:g803234-fixture@arsenal.com
+SUMMARY:Arsenal v Manchester United (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803234-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151017T163000Z
+DTEND:20151017T181500Z
+UID:g803242-fixture@arsenal.com
+SUMMARY:Watford v Arsenal (A)
+LOCATION:Vicarage Road
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803242-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151020T184500Z
+DTEND:20151020T203000Z
+UID:g832646-fixture@arsenal.com
+SUMMARY:Arsenal v Bayern Munich (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832646-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151024T163000Z
+DTEND:20151024T181500Z
+UID:g803254-fixture@arsenal.com
+SUMMARY:Arsenal v Everton (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803254-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151027T194500Z
+DTEND:20151027T213000Z
+UID:g836071-fixture@arsenal.com
+SUMMARY:Sheffield Wednesday v Arsenal (A)
+LOCATION:Hillsborough
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g836071-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151031T150000Z
+DTEND:20151031T164500Z
+UID:g803262-fixture@arsenal.com
+SUMMARY:Swansea City v Arsenal (A)
+LOCATION:Liberty Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803262-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151104T194500Z
+DTEND:20151104T213000Z
+UID:g832647-fixture@arsenal.com
+SUMMARY:Bayern Munich v Arsenal (A)
+LOCATION:Allianz Arena
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832647-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151108T160000Z
+DTEND:20151108T174500Z
+UID:g803279-fixture@arsenal.com
+SUMMARY:Arsenal v Tottenham Hotspur (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803279-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151121T150000Z
+DTEND:20151121T164500Z
+UID:g803282-fixture@arsenal.com
+SUMMARY:West Bromwich Albion v Arsenal (A)
+LOCATION:The Hawthorns
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803282-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151124T194500Z
+DTEND:20151124T213000Z
+UID:g832648-fixture@arsenal.com
+SUMMARY:Arsenal v Dinamo Zagreb (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832648-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151129T161500Z
+DTEND:20151129T180000Z
+UID:g803292-fixture@arsenal.com
+SUMMARY:Norwich City v Arsenal (A)
+LOCATION:Carrow Road
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803292-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151205T150000Z
+DTEND:20151205T164500Z
+UID:g803309-fixture@arsenal.com
+SUMMARY:Arsenal v Sunderland (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803309-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151209T194500Z
+DTEND:20151209T213000Z
+UID:g832649-fixture@arsenal.com
+SUMMARY:Olympiacos v Arsenal (A)
+LOCATION:Georgios Karaiskakis Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g832649-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151213T133000Z
+DTEND:20151213T151500Z
+UID:g803312-fixture@arsenal.com
+SUMMARY:Aston Villa v Arsenal (A)
+LOCATION:Villa Park
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803312-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151221T200000Z
+DTEND:20151221T214500Z
+UID:g803327-fixture@arsenal.com
+SUMMARY:Arsenal v Manchester City (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803327-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151226T194500Z
+DTEND:20151226T213000Z
+UID:g803332-fixture@arsenal.com
+SUMMARY:Southampton v Arsenal (A)
+LOCATION:St. Mary's Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803332-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20151228T173000Z
+DTEND:20151228T191500Z
+UID:g803343-fixture@arsenal.com
+SUMMARY:Arsenal v Bournemouth (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803343-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160102T150000Z
+DTEND:20160102T164500Z
+UID:g803357-fixture@arsenal.com
+SUMMARY:Arsenal v Newcastle United (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803357-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160109T000000Z
+DTEND:20160109T014500Z
+UID:179383-fixture@arsenal.com
+SUMMARY:Round 3 v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179383-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160113T200000Z
+DTEND:20160113T214500Z
+UID:g803362-fixture@arsenal.com
+SUMMARY:Liverpool v Arsenal (A)
+LOCATION:Anfield
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803362-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160117T161500Z
+DTEND:20160117T180000Z
+UID:g803372-fixture@arsenal.com
+SUMMARY:Stoke City v Arsenal (A)
+LOCATION:Britannia Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803372-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160124T160000Z
+DTEND:20160124T174500Z
+UID:g803384-fixture@arsenal.com
+SUMMARY:Arsenal v Chelsea (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803384-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160130T000000Z
+DTEND:20160130T014500Z
+UID:179384-fixture@arsenal.com
+SUMMARY:Round 4 v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179384-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160202T194500Z
+DTEND:20160202T213000Z
+UID:g803397-fixture@arsenal.com
+SUMMARY:Arsenal v Southampton (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803397-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160206T150000Z
+DTEND:20160206T164500Z
+UID:g803402-fixture@arsenal.com
+SUMMARY:Bournemouth v Arsenal (A)
+LOCATION:Vitality Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803402-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160213T150000Z
+DTEND:20160213T164500Z
+UID:g803412-fixture@arsenal.com
+SUMMARY:Arsenal v Leicester City (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803412-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160216T000000Z
+DTEND:20160216T014500Z
+UID:179401-fixture@arsenal.com
+SUMMARY:Round of 16 1L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179401-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160220T000000Z
+DTEND:20160220T014500Z
+UID:179385-fixture@arsenal.com
+SUMMARY:Round 5 v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179385-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160227T150000Z
+DTEND:20160227T164500Z
+UID:g803422-fixture@arsenal.com
+SUMMARY:Manchester United v Arsenal (A)
+LOCATION:Old Trafford
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803422-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160301T194500Z
+DTEND:20160301T213000Z
+UID:g803437-fixture@arsenal.com
+SUMMARY:Arsenal v Swansea City (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803437-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160305T150000Z
+DTEND:20160305T164500Z
+UID:g803442-fixture@arsenal.com
+SUMMARY:Tottenham Hotspur v Arsenal (A)
+LOCATION:White Hart Lane
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803442-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160308T000000Z
+DTEND:20160308T014500Z
+UID:179402-fixture@arsenal.com
+SUMMARY:Round of 16 2L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179402-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160312T000000Z
+DTEND:20160312T014500Z
+UID:179386-fixture@arsenal.com
+SUMMARY:Quarter-Final v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179386-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160312T150000Z
+DTEND:20160312T164500Z
+UID:g803461-fixture@arsenal.com
+SUMMARY:Arsenal v West Bromwich Albion (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803461-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160319T150000Z
+DTEND:20160319T164500Z
+UID:g803462-fixture@arsenal.com
+SUMMARY:Everton v Arsenal (A)
+LOCATION:Goodison Park
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803462-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160402T140000Z
+DTEND:20160402T154500Z
+UID:g803480-fixture@arsenal.com
+SUMMARY:Arsenal v Watford (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803480-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160404T230000Z
+DTEND:20160405T004500Z
+UID:179403-fixture@arsenal.com
+SUMMARY:Quarter-Final 1L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179403-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160409T140000Z
+DTEND:20160409T154500Z
+UID:g803482-fixture@arsenal.com
+SUMMARY:West Ham United v Arsenal (A)
+LOCATION:Boleyn Ground
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803482-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160411T230000Z
+DTEND:20160412T004500Z
+UID:179404-fixture@arsenal.com
+SUMMARY:Quarter-Final 2L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179404-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160416T140000Z
+DTEND:20160416T154500Z
+UID:g803493-fixture@arsenal.com
+SUMMARY:Arsenal v Crystal Palace (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803493-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160422T230000Z
+DTEND:20160423T004500Z
+UID:179387-fixture@arsenal.com
+SUMMARY:Semi-Final v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179387-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160423T140000Z
+DTEND:20160423T154500Z
+UID:g803502-fixture@arsenal.com
+SUMMARY:Sunderland v Arsenal (A)
+LOCATION:Stadium of Light
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803502-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160425T230000Z
+DTEND:20160426T004500Z
+UID:179405-fixture@arsenal.com
+SUMMARY:Semi-Final 1L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179405-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160430T140000Z
+DTEND:20160430T154500Z
+UID:g803518-fixture@arsenal.com
+SUMMARY:Arsenal v Norwich City (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803518-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160502T230000Z
+DTEND:20160503T004500Z
+UID:179406-fixture@arsenal.com
+SUMMARY:Semi-Final 2L v Arsenal (A)
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179406-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160507T140000Z
+DTEND:20160507T154500Z
+UID:g803522-fixture@arsenal.com
+SUMMARY:Manchester City v Arsenal (A)
+LOCATION:Etihad Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803522-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160515T140000Z
+DTEND:20160515T154500Z
+UID:g803532-fixture@arsenal.com
+SUMMARY:Arsenal v Aston Villa (H)
+LOCATION:Emirates Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/g803532-fixture%40arsenal.com\nManage:\n https://ic
+ alfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160520T230000Z
+DTEND:20160521T004500Z
+UID:179388-fixture@arsenal.com
+SUMMARY:Final v Arsenal (A)
+LOCATION:Wembley Stadium
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179388-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20151125T165029Z
+DTSTART:20160527T230000Z
+DTEND:20160528T004500Z
+UID:179787-fixture@arsenal.com
+SUMMARY:Final v Arsenal (A)
+LOCATION:Stadio Giuseppe Meazza - Milan
+DESCRIPTION:\n\n-- Powered by icalfilter.com --\n\nHide:\n https://icalfilt
+ er.com/3mc5h2acr2/hide/179787-fixture%40arsenal.com\nManage:\n https://ica
+ lfilter.com/3mc5h2acr2/manage
+END:VEVENT
+END:VCALENDAR
