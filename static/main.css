@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.event {
+  border: 1px solid rgba(0,0,0,.1);
+  margin: 8px auto 8px auto;
+  padding: 16px;
+  text-align: center;
+  width: 600px;
+}
+
+.event .name {
+  font-weight: 500;
+}
