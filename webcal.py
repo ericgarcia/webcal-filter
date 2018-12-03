@@ -10,7 +10,6 @@ vendor.add('lib')
 
 import icalendar
 
-
 JINJA_ENVIRONMENT = jinja2.Environment(
     loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],
@@ -20,16 +19,21 @@ JINJA_ENVIRONMENT = jinja2.Environment(
 class CalendarFilterPage(webapp2.RequestHandler):
   def get(self):
     calendar_url = self.request.get('url')
-    filter_spec = self.request.get('filter')
+    
+    result = urlfetch.fetch(calendar_url)
+    calendar = icalendar.Calendar.from_ical(result.content)
 
-    calendar_filter = CalendarFilter(filter_spec)
+    for component in calendar.subcomponents:
+      for k, v in component.items():
+        if isinstance(v, icalendar.prop.vText):
+          component[k] = '\n'.join([line if len(line) < 75 else line[:74] for line in v.splitlines()])
 
     self.response.content_type = 'text/calendar'
     self.response.headers.add(
         'Cache-Control', 'max-age=3600')
     self.response.headers.add(
         'Content-Disposition', 'attachment; filename="calendar.ical"')
-    self.response.out.write(calendar_filter.Filter(calendar_url).to_ical())
+    self.response.out.write(calendar.to_ical())
 
 
 class CalendarViewPage(webapp2.RequestHandler):
