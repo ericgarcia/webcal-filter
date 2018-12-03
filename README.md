@@ -3,7 +3,7 @@ Many people have been having trouble syncing events to Google Calendar. The prob
 
 I created a fix for this in Google App Engine. It's a simple app that returns an ical link after fixing the formatting. You can create your own app in Google App Engine to run this yourself or just use the app that I have running at https://fb-gcal-224419.appspot.com/calendar.
 
-##Example Formatted Link:
+## Example Formatted Link:
 ```
 https://fb-gcal-224419.appspot.com/calendar?url=https%3A%2F%2Fwww.facebook.com%2Fevents%2Fical%2Fupcoming%2F%3Fuid%3D{uid}%26key%3D{key}
 ```
