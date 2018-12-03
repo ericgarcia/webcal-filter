@@ -7,7 +7,8 @@ Example Formatted Link:
 https://fb-gcal-224419.appspot.com/calendar?url=https%3A%2F%2Fwww.facebook.com%2Fevents%2Fical%2Fupcoming%2F%3Fuid%3D{uid}%26key%3D{key}
 ```
 
-The text after `url=` needs to be the link you get from copying the link from your Upcoming Events in Facebook. (fb_events_link.png?raw=true "Get the iCal link for your Facebook Events")
+The text after `url=` needs to be the link you get from copying the link from your Upcoming Events in Facebook. 
+![alt text](fb_events_link.png?raw=true "Get the iCal link for your Facebook Events")
 
 The link url must be encoded, so you must first pass it through a tool like [this](www.url-encode-decode.com).
 
