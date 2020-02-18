@@ -4,7 +4,7 @@ Many people have been having trouble syncing events to Google Calendar. The prob
 I created a fix for this in Google App Engine. It's a simple app that returns an ical link after fixing the formatting. You can create your own app in Google App Engine to run this yourself or just use the app that I have running at https://fb-gcal-224419.appspot.com/calendar.
 
 ## 1) Copy the iCal url for your Facebook Events
-The text after `url=` needs to be the link you get from copying the link from your Upcoming Events in Facebook:
+Go to [https://www.facebook.com/events/](https://www.facebook.com/events/) and copy the /Upcoming Events/ link. The text after `url=` needs to be the link you get from copying the link from your Upcoming Events in Facebook:
 ![alt text](fb_events_link.png?raw=true "Get the iCal link for your Facebook Events")
 
 ## 2) Encode the url
